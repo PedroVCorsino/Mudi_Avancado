@@ -9,7 +9,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## Descrição 
-Versão melhorada do projeto [Mudi Original](https://github.com/PedroVCorsino/Mudi_Original/edit/main/README.md "Go to Mudi_Original Repository") agora com VueJS no frontend.
+Versão melhorada do projeto [Mudi Original](https://github.com/PedroVCorsino/Mudi_Original "Go to Mudi_Original Repository") agora com VueJS no frontend.
 
 Criado durante a formação de [Spring framework](https://github.com/PedroVCorsino/Alura-Spring-Framework "Go to Alura-Spring-Framework Repository") da [Alura](https://www.alura.com.br/ "Go to Alura").
 
